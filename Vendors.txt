@@ -1,0 +1,2 @@
+this is a new file in the Git repository.
+This is a second line after Stage the Above line.
